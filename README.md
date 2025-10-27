@@ -20,3 +20,5 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Demo
 ![](https://github.com/wjmmk/Angular-MapBox/blob/main/src/assets/demo1.png)
 
+### This ´s Another Beautiful View... 
+![](https://github.com/wjmmk/Angular-MapBox/blob/main/src/assets/demo2.png)
